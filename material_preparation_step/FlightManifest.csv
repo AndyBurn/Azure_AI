@@ -1,0 +1,8 @@
+Passanger Name,Carrier ,Flight No.,Class,From,To,Date,Baggage,Seat,Gate,Boarding Time,Ticket No.
+Benjamin Bradley,UA,842,Economy,Los Angeles,New York,14-May-22,No,26B,G1,09:00 AM PST,47286206
+Felix Duke,UA,842,Economy,Los Angeles,New York,14-May-22,YES,14A,G1,09:00 AM  PST,47286205
+Lucas James,UA,842,Business,Los Angeles,New York,14-May-22,No,3A,G1,09:00 AM  PST,47286204
+Sheryl Avery,UA,842,Economy,Los Angeles,New York,14-May-22,YES,5B,G1,09:00 AM  PST,47286203
+Theodore Leo,UA,842,Economy,Los Angeles,New York,14-May-22,No,9D,G1,09:00 AM  PST,47286202
+Olivia Abigail,UA,842,Business,Los Angeles,New York,14-May-22,YES,1A,G1,09:00 AM  PST,47286201
+Alex Gachanja,,842,Economy,Los Angeles,New York,14-May-22,No,15B,G1,09:00 AM,47286200
